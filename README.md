@@ -30,3 +30,4 @@ Envie só o arquivo `index.html`. Ele já inclui tudo.
 ## Tecnologias
 
 HTML, CSS e JavaScript puros.
+link: https://altoscorre.netlify.app/
