@@ -1,0 +1,11 @@
+# Claude Code / editor
+.claude/
+
+# Fonte baixada (licença não verificada para redistribuição) e fotos originais brutas
+pixo_reto/
+Ftos do site/
+
+# Temporários
+*.bak
+*.ps1
+Thumbs.db
